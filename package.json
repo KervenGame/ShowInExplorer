@@ -1,0 +1,12 @@
+{
+  "name": "com.kervengame.showinexploer",
+  "displayName": "Show In Explorer",
+  "version": "1.0.0",
+  "description": "Show In Explorer\n",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/KervenGame/ShowInExplorer",
+  "repository": {
+    "url": "https://github.com/KervenGame/ShowInExplorer.git",
+    "type": "git"
+  }
+}
